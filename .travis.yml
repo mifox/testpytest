@@ -7,13 +7,6 @@ python:
 
 
 
-
-install:
-
-    - pip install -e .
-
-
-
 script:
 
     pytest
